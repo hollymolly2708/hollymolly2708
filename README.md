@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Android, Firebase, Kotlin, Android SDK**
 
-- 👨‍💻 All of my projects are available at [fiqriturhamz.github.io](fiqriturhamz.github.io)
-
 - 💬 Ask me about **Android, Kotlin, Flutter**
 
 - 📫 How to reach me **tmuhammadfiqri@gmail.com**
