@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Android, Firebase, Kotlin, Android SDK**
 
-- 💬 Ask me about **Android, Kotlin, Flutter**
+- 💬 Ask me about **Android, Kotlin, Spring boot**
 
 - 📫 How to reach me **tmuhammadfiqri@gmail.com**
 - <h3 align="left">Connect with me:</h3>
