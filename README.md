@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fiqri Turham</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Fiqri T</h1>
 <h3 align="center">A man wearing glasses with a passion for software engineering</h3>>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiqriturhamz&label=Profile%20views&color=0e75b6&style=flat" alt="fiqriturhamz" /> </p>
 
